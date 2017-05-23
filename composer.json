@@ -1,0 +1,20 @@
+{
+  "name": "quanfuxia/develop-component",
+  "type": "library",
+  "description": "learn composer develop",
+  "keywords": ["test","component"],
+  "homepage": "https://github.com/quanfuxia/develop-component",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "quanfuxia",
+      "email": "604638018@qq.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "DevelopComponent": "src"
+    }
+  }
+}
